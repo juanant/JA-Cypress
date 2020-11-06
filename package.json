@@ -1,0 +1,14 @@
+{
+  "name": "micursocypress",
+  "version": "1.0.0",
+  "description": "Primer proyecto del curso cypress QA-Lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Antonio Serrano Rebollo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.5.0"
+  }
+}

@@ -1,0 +1,44 @@
+PS D:\Profiles\juanserrano\Desktop\Juanant\Cursos\Cypress - QA Lovers\CursoCypress> node -v
+v12.14.0
+PS D:\Profiles\juanserrano\Desktop\Juanant\Cursos\Cypress - QA Lovers\CursoCypress> npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (cursocypress) MiCursoCypress
+Sorry, name can no longer contain capital letters.
+package name: (cursocypress) micursocypress
+version: (1.0.0)
+description: Primer proyecto del curso cypress QA-Lovers
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author: Juan Antonio Serrano Rebollo
+license: (ISC)
+About to write to D:\Profiles\juanserrano\Desktop\Juanant\Cursos\Cypress - QA Lovers\CursoCypress\package.json: 
+
+{
+  "name": "micursocypress",
+  "version": "1.0.0",
+  "description": "Primer proyecto del curso cypress QA-Lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Antonio Serrano Rebollo",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+PS D:\Profiles\juanserrano\Desktop\Juanant\Cursos\Cypress - QA Lovers\CursoCypress> npm install cypress
+
+Ejecutar ./node_modules/.bin/cypress open para el arranque (npx )
+
